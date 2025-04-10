@@ -1,0 +1,12 @@
+estoque=Stock
+vendas=Sales
+voltar=Back
+atualizar-estoque=Update Stock
+adicionar-produto=Add Product
+remover-produto=Remove Product
+confirmar=Confirm
+quantidade=quantity
+id-fornecedor=Supplier ID
+titulo=title
+valor=value
+id-produto= Product ID

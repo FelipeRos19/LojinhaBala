@@ -1,0 +1,12 @@
+estoque=Estoque
+vendas=Vendas
+voltar=Voltar
+atualizar-estoque=Atualizar Estoque
+adicionar-produto=Adicionar Produto
+remover-produto=Remover Produto
+confirmar=Confirmar
+quantidade=quantidade
+id-fornecedor=ID Fornecedor
+titulo=Título
+valor=Valor
+id-produto=ID Produto
