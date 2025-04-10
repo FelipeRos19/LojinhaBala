@@ -31,7 +31,9 @@ public class Main {
         return databaseConfig;
     }
 
-
+    public static I18nConfig getI18nConfig() {
+        return i18nConfig;
+    }
 
     private static void createTable() {
         FornecedorRepository.createTable();
